@@ -5,7 +5,6 @@ subtitle: 每日单词学习
 tags: [Word, English]
 comments: true
 ---
-
 ## Compression
 
 compression, n.压缩。源于动词compress, 给压力。加ion后缀，该词就变为一种属性，可理解为可压缩性，实现“被压缩的”状态，可以被执行压缩的动作。加了ion后可以被事物所属。
@@ -35,5 +34,9 @@ image compress, 图像压缩。
 
 反义词为decompression, 解压性。
 
-
-
+```
+It's emergency now, you must compress your time.
+I have to eat compress food because all the shop stores have closed.
+Using compress command: zip, you can compress the file or folders in linux.
+The study cost me lots of time and makes me tried, I need decompress my life.
+```
