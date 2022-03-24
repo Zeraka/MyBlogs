@@ -16,9 +16,11 @@ author: Zeraka, A Wonderful Programmer In Intel.
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - My cnblog: "https://www.cnblogs.com/goto2091/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://zeraka.github.io"
+
 
 # --- Logo --- #
 
@@ -42,7 +44,7 @@ social-network-links:
   email: "yu.han@intel.com"
   rss: True  # remove this line if you don't want to show an RSS link at the bottom
   #facebook: deanattali
-  github: Zeraka
+  github: "https://github.com/Zeraka"
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
