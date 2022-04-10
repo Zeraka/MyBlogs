@@ -1,9 +1,9 @@
 ---
-layout:post
+layout: post
 title: Linux下不同压缩格式文件的解压方式
 tags:[Linux, 自动化运维, automation]
 ---
-
+# Linux下不同压缩格式文件的解压方式
 Linux下的压缩文件的后缀名有`*.tar, *.tar.gz, *.tgz, *.gz, *.Z, *.bz2`。这代表这些文件被不同的压缩技术所压缩，因此解压缩时便使用不同的压缩命令。Linux文件的扩展名并不会改变文件性质，而只是让你清楚这是什么格式文件，因此如果随便乱改Linux文件扩展名会造成肉眼判断的障碍。
 
 ```
