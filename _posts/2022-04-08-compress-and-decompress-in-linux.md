@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Linux下不同压缩格式文件的解压方式
-subtitle: Linux运维基础
-tags: [Linux, automation]
+subtitle: 
+tags: [linux]
+comments: true
 ---
 # Linux下不同压缩格式文件的解压方式
 
