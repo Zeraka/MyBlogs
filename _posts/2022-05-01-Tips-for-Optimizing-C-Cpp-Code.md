@@ -1,6 +1,7 @@
 ---
-layout:post
+layout: post
 title: 优化C/C++代码的建议
+subtitle: <Tips for Optimizing C/C++ Code>译注
 tags:[C++, Linux, Performan]
 ---
 
