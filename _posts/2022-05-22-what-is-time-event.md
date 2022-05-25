@@ -38,7 +38,7 @@ If the time event processor retuerns a non ae.h/AE_NOMORE integer, the event wil
 
 **All the time event will be put into a  unordered linked list **. When  the time event actuator runs, it traverse the whole linked list, and search for all the events that has arrived and call the correspond TimeProc.
 
-![](images/wrk-3.png)
+![wrk-3](images/wrk-3.png)
 
 Notice that the unorder linked list means that each time event's "when" attribution is unordered but not its id. So the time event actuator must traverse the entire linked list to find out the event that match the "When" time.
 
@@ -73,7 +73,7 @@ def main(): # Use Pseudo code
 	clearn_server()
 ```
 
-![](images/wrk-4.png)
+![wkr-4](images/wrk-4.png)
 
 [Redis中的时间事件](https://blog.csdn.net/m0_58554082/article/details/119733143)
 
